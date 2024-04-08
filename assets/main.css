@@ -38,7 +38,7 @@ body{
 }
 
 a{color: #b2132e; text-decoration:none;}
-a.current{color: #b2132e;}
+a.current{color: #505050;}
 a.current:hover{color: #505050;}
 a:hover{color: #505050;}
 a:active{color: #b2132e;}
