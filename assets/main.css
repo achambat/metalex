@@ -105,7 +105,7 @@ td.title-plenary{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font
 td.speaker{padding: 4px 12px 4px 4px; font-size:1em; max-height:999999px}
 td.abstract{padding: 4px 12px 12px 4px; font-size:1em; max-height:999999px}
 td.abstract img{display: block; margin: 4px auto 8px auto}
-table.plenary{padding-top: 8px; background: #ffffff;}
+table.plenary{padding-top: 8px; background: #f2f2f2;}
 
 /* Registration and Directions iframes and Images */
 iframe.registration{display:block; margin:1em auto 2em auto; width:700px; height:1400px; border:none;}
